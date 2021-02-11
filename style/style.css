@@ -1,0 +1,11 @@
+div{
+  text-align: center;
+}
+.judul{
+  text-decoration: underline;
+}
+button {
+  font-weight: lighter;
+  font-size: 40px;
+  color: orange;
+}
